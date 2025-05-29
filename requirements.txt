@@ -1,0 +1,1 @@
+pip install torch cupy cuml scanpy pandas numpy scikit-learn
